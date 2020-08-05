@@ -361,7 +361,7 @@ public class ResourceCentre {
             else 
             {
                 //System.out.println("Chromebook " + tag + " returned");
-                System.out.println("Invalid asset tag");
+                System.out.println("Invalid asset tag.");
                 //test
             }
         }
